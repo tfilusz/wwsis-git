@@ -4,4 +4,9 @@ lisa
 maggie
 moe
 barney
+<<<<<<< HEAD
 flanders
+=======
+nelson
+apu
+>>>>>>> origin/lista_alternatywna
